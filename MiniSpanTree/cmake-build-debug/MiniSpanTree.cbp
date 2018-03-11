@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MiniSpanTree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MiniSpanTree">
+				<Option output="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/MiniSpanTree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++/backward"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 MiniSpanTree"/>
+					<CompileFile command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MiniSpanTree/fast">
+				<Option output="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/MiniSpanTree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++/backward"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="D:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 MiniSpanTree/fast"/>
+					<CompileFile command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/DenseGraph.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/Edge.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/IndexMinHeap.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/KruskalMST.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/LazyPrimMST.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/MiniHeap.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/PrimMST.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/ReadGraph.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/SparseGraph.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/UnionFind.h">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/main.cpp">
+			<Option target="MiniSpanTree"/>
+		</Unit>
+		<Unit filename="D:/develop/workspace/Cworkspace/mukewang/MiniSpanTree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
